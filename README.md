@@ -1,6 +1,4 @@
 # Hangman Game
-*Overview:*
-
 This Java program implements a simple Hangman game. Players try to guess a hidden word by inputting letters or the entire word. 
 The game displays a hangman figure for each incorrect guess, and players have a limited number of attempts before losing.
 
